@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <Wrapper>
       <div className='logo'>
-        <img src='/keyboard.svg' alt='' />
+        <img src='keyboard.svg' alt='' />
         <h2 className='logo-text'>Typing Tester</h2>
       </div>
     </Wrapper>
